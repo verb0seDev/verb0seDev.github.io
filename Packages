@@ -2,7 +2,7 @@ Package: com.verb0sedev.thanosdance
 Version: 1.0
 Section: Tweaks
 Maintainer: verb0seDev <d0ppe1g4ng3r73@gmail.com>
-Depends: firmware (>7.0),
+Depends: 
 Architecture: iphoneos-arm
 Filename: ./debs/com.verb0sedev.thanosdance.deb
 Size: 6632144
@@ -10,6 +10,6 @@ MD5sum: 660FD06AFF2AD3E4CC53A031349C35D5
 Description: Hey Rigo. Scarica questo package. ORA.
 Name: ThanosDance
 Author: verb0seDev <d0ppe1g4ng3r73@gmail.com>
-Depiction: https://supermamon.github.io/verb0seDev/depictions/?p=com.verb0sedev.thanosdance
+Depiction: https://verb0sedev.github.io/depictions/?p=com.verb0sedev.thanosdance
 
 

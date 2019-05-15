@@ -1,0 +1,44 @@
+{
+    "bundle_id": "com.verb0seDev.thanosdance_0.1_sb",
+    "name": "ThanosDanceXI",
+    "version": "0.1-beta",
+    "tagline": "A simplistic,purple bitch-ass that dances with spiderman.",
+    "homepage": "https://verb0seDev.github.io",
+    "developer": {
+        "name": "verb0seDev",
+        "email": "d0ppe1g4ng3r73@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/verb0se4"
+        },
+        {
+            "name": "Website",
+            "url": "https://verb0seDev.github.io"
+        }
+    ],
+    "sponsor": {
+        "name": "verb0seDev",
+        "email": "d0ppe1g4ng3r73@gmail.com"
+    },
+    "section": "Tweaks",
+    "pre_dependencies": "",
+    "dependencies": "",
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": ["Tag: role::enduser", "SomeOtherEntryToControl: True"],
+
+    "tint": "#55c6d3",
+    "works_min": "8.0",
+    "works_max": "13.0",
+    "featured": "true",
+    "source": "https://github.com/verb0seDev/verb0seDev.github.io",
+    "changelog": [
+        {
+            "version": "0.1-beta",
+            "changes": "Thank you for participating in the ThanosDanceXI beta! All future updates will be given a descriptive changelog with a list of changes."
+        }
+    ]
+}

@@ -2,7 +2,7 @@ Package: com.verb0sedev.thanosdance
 Version: 1.0
 Section: Tweaks
 Maintainer: verb0seDev <d0ppe1g4ng3r73@gmail.com>
-Depends: firmware (>7.0),substitute
+Depends: firmware (>7.0),
 Architecture: iphoneos-arm
 Filename: ./debs/com.verb0sedev.thanosdance.deb
 Size: 6632144
